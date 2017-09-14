@@ -219,3 +219,5 @@ if (Configure::read('debug')) {
 Plugin::load('Crud');
 
 Plugin::load('Migrations');
+
+Plugin::load('Migrations');
